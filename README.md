@@ -1,5 +1,6 @@
 Hi👋 I'm Saurabh Jaiswal
 
+Final Year Information Technology Student Passionate about Front End Developer.
 
 <!--
 **SaurabhJaiswal7/SaurabhJaiswal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
